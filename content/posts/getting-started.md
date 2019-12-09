@@ -5,7 +5,7 @@ thumb_img_path: /images/colinator_prints.png
 hide_header: false
 menu:
   main:
-    weight: 1
+    weight: 0
 layout: post
 ---
 There is nothing of interest here...**yet**
