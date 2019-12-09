@@ -1,20 +1,19 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+img_path: /images/colinator_prints.png
 menu:
   main:
     name: About
     weight: 2
 layout: page
 ---
+**Colin Anthony** was born in Zimbabwe, but, in true “curse bless me now with your fierce tears” fashion, he was forced to grow up on a farm in the harsh beauty of the Northern Cape. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+He currently lives in Cape Town, where he found himself drawn to printmaking by the methodical, multi-step and highly process oriented nature of this art form, and because the art work can evolve, sometimes unexpectedly, at each stage of the process. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+He favours the intaglio process of hard ground etching, working in high detail on miniatures, although he is exploring larger formats, as well as relief printing methods. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Colin finds inspiration in the complexity of our relationship and connection to nature, to ourselves and to others, and the cracks that run through these. 
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+He was introduced to printmaking by Cape Town artist, Cath Theron, following which he join the Intaglio studio, where he has received training from artists Michele Rolestone, Oliver Hambsch and notably, Judy Woodborne.
