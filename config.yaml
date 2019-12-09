@@ -9,7 +9,7 @@ params:
         url: 'https://www.stackbit.com'
   header:
     bg_img: ''
-    has_nav: false
+    has_nav: true
     has_social: true
     logo_img: /images/colinator_prints.png
     tagline: Minimal and clean blog theme
